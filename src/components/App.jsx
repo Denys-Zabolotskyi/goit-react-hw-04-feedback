@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-// import { Global } from '@emotion/react';
 import { Section, FeedbackOptions, Statistics, Notification, } from 'components';
 
 export class App extends Component {
